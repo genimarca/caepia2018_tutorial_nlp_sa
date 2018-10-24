@@ -2,7 +2,7 @@
 
 (Spanish version below)
 
-##Abstract
+## Abstract
 
 > The communication protocol between humans is natural language. Humans communicate with each other and express their private states using language in the form of text or speech. Furthermore, language may be considered as the projection of human knowledge and intelligence. Hence, natural language is the right source of data to understand humans, to represent their intelligence and to communicate with them. However, natural language is unstructured data and it cannot be directly used by a computer system.
 >
@@ -29,7 +29,7 @@ The tutorial has three parts:
    The data used for the classification is the training set of the [General Corpus of TASS](http://www.sepln.org/workshops/tass/). The access to the data requires the signment of a license, more info at: [TASS webpage](http://www.sepln.org/workshops/tass/).
    The set of Spanish pre-train word embeddgins was built upon a set of tweets written in Spanish and with the method FastText. The set of embeddings are not available, but if you are interested on that set, please, write an email to of the authors of the tutorial.
 
-##Authors
+## Authors
 
 * [Carlos Gómez-Rodríguez](http://www.grupolys.org/~cgomezr/) - University of La Coruña (Spain).
 * [Eugenio Martínez Cámara](http://decsai.ugr.es/index.php?p=miembros&id=19952) - University of Granada (Spain).
@@ -40,18 +40,18 @@ The tutorial has three parts:
 >This repository contains experimental software and is published for the sole purpose of providing practical examples to the theoretical part of the tutorial.
 
 
-####Spanish version
+#### Spanish version
 ## CAEPIA-Tutorial: Procesamiento del Lengujae Natural y Análisis de opiniones
 
 
-##Resumen
+## Resumen
 
 > El protocolo de comunicación entre humanos es el lenguaje natural. Los seres humanos se comunican entre sí y expresan sus estados personales o emocionales mediante lenguaje oral o escrito. Además, el lenguaje se puede considerar como la proyección y concreción del conocimiento e inteligencia humana. Por tanto, el lenguaje natural es la fuente apropiada de datos para entender a los seres humanos, representar su conocimiento y comunicarse con ellos. Sin embargo, el lenguaje natural es un dato no estructurado y no puede ser utilizado directamente por un sistema informático.
 > 
 > En este tutorial, describiremos como representar el lenguaje natural para ser procesado por una computadora, es decir, como construir características que representen el lenguaje natural. Se expondrán métodos basados en redes neuronales (Deep Learning) para la extracción de características lingüísticas de calidad de enunciados escritos, las cuales no estarán constreñidas por una interpretación superficial del texto como puede ser la representación basada en bolsa de oraciones o palabras, sino que incluirán la estructura sintáctica del texto. Así mismo, se mostrará la utilidad de dichas características lingüísticas para el desarrollo de un sistema de clasificación de opiniones, elemento esencial de la tarea de Análisis de Opiniones. Además, se mostrará como desarrollar un sistema de clasificación de opiniones basado en el uso de **redes neuronales**.
 
 
-##Cotenidos
+## Cotenidos
 
 Se publica el material del tutorial con el fin de facilitar que los interesados en técnicas de inteligencia artificial se acerquen al área del Procesamiento del Lenguaje Natural y en particular a la tarea de Análisis de Opiniones.
 
@@ -70,7 +70,7 @@ Fichero: 2018_caepia_tutorial_sentiment_analysis.pdf
    Los datos usados en los ejemplos provienen del conjunto de entrenamiento del corpus [General Corpus of TASS](http://www.sepln.org/workshops/tass/). El acceso a los datos requiere de la firma de una licencia de uso, más información en la [web de TASS](http://www.sepln.org/workshops/tass/).
    El conjunto de embeddings pre-entrenados en español fue generado sobre tuits en español y usando el método FastText. El conjunto de embeddings no está disponible, pero si está interesado puede escribirle un correo electrónico a alguno de los autores del tutorial.
    
-##Autores
+## Autores
 
 * [Carlos Gómez-Rodríguez](http://www.grupolys.org/~cgomezr/) - Universidad de La Coruña (España).
 * [Eugenio Martínez Cámara](http://decsai.ugr.es/index.php?p=miembros&id=19952) - Universidad de Granada (España).
